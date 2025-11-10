@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const KeyIcon: React.FC<{ className?: string }> = ({ className }) => (
