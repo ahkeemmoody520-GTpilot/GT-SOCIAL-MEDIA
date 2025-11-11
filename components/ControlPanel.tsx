@@ -1,8 +1,8 @@
 
 import React, { useState } from 'react';
-import HamburgerIcon from './icons/HamburgerIcon.tsx';
+import HamburgerIcon from './icons/HamburgerIcon';
 import KeyIcon from './icons/KeyIcon.tsx';
-import TerminalIcon from './icons/TerminalIcon.tsx';
+import TerminalIcon from './icons/TerminalIcon';
 import ApiKeyDashboard from './ApiKeyDashboard';
 import InternalTerminal from './InternalTerminal';
 
